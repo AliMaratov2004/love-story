@@ -193,7 +193,7 @@ function createThirdScene() {
             <div class="chat-placeholder">
 
     <img 
-        src="./sfirst.jpg" 
+        src="./first.jpg" 
         alt="Наша первая переписка"
         class="chat-image"
     >
@@ -449,7 +449,7 @@ function createFifthScene() {
     <div class="photo-inner">
 
         <img
-            src="second.jpg"
+            src="./second.jpg"
             alt="Наш первый кадр"
             class="fifth-image"
         >
@@ -632,7 +632,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="third.jpg" alt="Кадр 01">
+    <img src="./third.jpg" alt="Кадр 01">
 </div>
                         </div>
 
@@ -654,7 +654,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="fourth.jpg" alt="Кадр 02">
+    <img src="./fourth.jpg" alt="Кадр 02">
 </div>
 
                         </div>
@@ -677,7 +677,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="fifth.jpg" alt="Кадр 03">
+    <img src="./fifth.jpg" alt="Кадр 03">
 </div>
 
                         </div>
@@ -700,7 +700,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="sixth.jpg" alt="Кадр 04">
+    <img src="./sixth.jpg" alt="Кадр 04">
 </div>
 
                         </div>
@@ -723,7 +723,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="seventh.jpg" alt="Кадр 05">
+    <img src="./seventh.jpg" alt="Кадр 05">
 </div>
 
                         </div>
@@ -746,7 +746,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="third.jpg" alt="Кадр 01">
+    <img src="./third.jpg" alt="Кадр 01">
 </div>
 
                         </div>
@@ -767,7 +767,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="fourth.jpg" alt="Кадр 02">
+    <img src="./fourth.jpg" alt="Кадр 02">
 </div>
 
                         </div>
@@ -788,7 +788,7 @@ function createSixthScene() {
                             </div>
 
                             <div class="photo-placeholder">
-    <img src="fifth.jpg" alt="Кадр 03">
+    <img src="./fifth.jpg" alt="Кадр 03">
 </div>
 
                         </div>
