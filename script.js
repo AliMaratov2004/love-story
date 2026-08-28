@@ -193,7 +193,7 @@ function createThirdScene() {
             <div class="chat-placeholder">
 
     <img 
-        src="first.jpg" 
+        src="./sfirst.jpg" 
         alt="Наша первая переписка"
         class="chat-image"
     >
